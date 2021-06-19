@@ -1,2 +1,2 @@
-java superdupervanilla
+java Installer
 PAUSE
