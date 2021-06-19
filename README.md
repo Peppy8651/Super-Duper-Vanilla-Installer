@@ -45,7 +45,7 @@ Your Super Duper Vanilla Installer folder should look like this.
 
 ## Installing Java
 
-Java can be installed from https:///www.java.com/en/download or https://www.oracle.com/java/technologies/javase-downloads.html.
+Java can be installed from https://www.java.com/en/download or https://www.oracle.com/java/technologies/javase-downloads.html.
 
 If you're download from oracle.com, remember to choose the JDK download.
 
